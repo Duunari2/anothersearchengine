@@ -1,0 +1,11 @@
+# how to setup:
+git clone repository
+cd repository
+
+make folder images and browse image files there
+
+insert to browser url bar ascii: about:debugging#/runtime/this-firefox
+
+select load temporary addon and select manifest.json from branch folder.
+
+done.
