@@ -9,3 +9,15 @@ Add SearXNG to firefox search engine list (search.im-in.space instance - UNAFFIL
 ## Addon
 
 Extension can be installed [here](https://addons.mozilla.org/en-US/firefox/addon/searxng-search-im-in-space/).
+
+# how to setup:
+git clone repository
+cd repository
+
+make folder images and browse image files there
+
+insert to browser url bar ascii: about:debugging#/runtime/this-firefox
+
+select load temporary addon and select manifest.json from branch folder.
+
+done.
