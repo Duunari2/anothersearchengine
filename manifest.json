@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "SearXNG (anothersearchengine.com)",
+  "short_name": "instance",
+  "author": "mooblyndobydick",
+  "description": "Add custom metasearch engines to the top of the engines list(anothersearchengine.com instance to search engine list. Not tested at brave or focus.",
+  "icons": {
+    "16": "images/searxng-wordmark.svg",
+    "128": "images/searxng-wordmark.svg"
+  },
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "name": "SearXNG",
+      "keyword": "searx, searxng, customization, set, colors, colours, art, paint, resize, img, image, images, make, type, tor, no, track, tracking",
+       "search_url": "https://anothersearchengine.com/search?q={searchTerms}",
+      "favicon_url": "images/searxng-wordmark.svg",
+      "suggest_url": "https://anothersearchengine.com/autocompleter?q={searchTerms}",
+      "encoding": "UTF-8",
+      "is_default": true
+    }
+  }
+}
