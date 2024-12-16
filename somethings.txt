@@ -1,0 +1,10 @@
+Tutorial how to add searchxng instance to firefox without extension.
+
+Browse url bar to https://anothersearchengine.com. Rightlight url bar on firefox.
+
+Select add SearXNG.
+
+Go to settings and search engines. Add SearXNG to default.
+
+Thats it. I will upload picture soon also to confirm the changes to made to search engines on firefox.
+
